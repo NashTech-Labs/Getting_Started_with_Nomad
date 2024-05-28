@@ -27,9 +27,10 @@ sudo nomad agent -dev \
 
 4. In a second terminal session, export the cluster address.
 
-`export NOMAD_ADDR=http://localhost:4646`
+    `export NOMAD_ADDR=http://localhost:4646`
 
 5. Use the command to run: 
-`nomad job run <File-Name>.nomad.hcl`
+  
+    `nomad job run <File-Name>.nomad.hcl`
 
 ---
