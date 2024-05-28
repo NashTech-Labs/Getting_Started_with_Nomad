@@ -19,7 +19,3 @@ Here, In this template, we will create our first and simple job using the techno
 2. To run the file use the `chmod a+x <file-name>.sh`
 
 ---
- 
-## Configuration
-
----
